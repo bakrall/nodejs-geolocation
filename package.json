@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-geolocation",
+  "version": "1.0.0",
+  "description": "Based on Daniel Shiffman tutorial (inspired by Joey Lee) - \u0016\u0016https://www.youtube.com/watch?v=wxbQP1LMZsw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Barbara Stadnik",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
